@@ -12,9 +12,5 @@ public class Main {
         Cliente cliente = new Cliente();
         Conta cp = new ContaPoupanca(cliente);
         Conta cc = new ContaCorrente(cliente);
-
-
-
-
     }
 }
